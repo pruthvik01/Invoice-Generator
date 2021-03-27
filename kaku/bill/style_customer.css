@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.col-md-6{
+    padding: 30px;
+    background-color: white;
+    font-weight: bold;
+}
+
+.container .col-md-6{
+    width: auto;
+    border: 2px solid black;
+    border-radius: 13px;
+    margin-bottom: 25px;
+}
+
+.col-md-6 .btn:hover{
+    background-color: transparent;
+    color: black;
+}

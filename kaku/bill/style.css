@@ -1,0 +1,54 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.card .btn:hover{
+    background-color: #eeeeee;
+    color: black;
+}
+
+.space{
+    margin-bottom: 25px;
+}
+
+.card:hover{
+    background-color: rgb(198, 204, 206);
+}
+
+.navbar{
+	background-color: #343a40;
+	margin-bottom:30px;
+	height: 100px;
+}
+
+.navbar a:hover{
+	color:white;
+}
+
+a{
+	color:white;
+}
+
+.btn a:hover{
+	text-decoration:none;
+	color: white;
+}
+
+.col-md-6{
+    padding: 30px;
+    background-color: white;
+    font-weight: bold;
+}
+
+.container .col-md-6{
+    width: auto;
+    border: 2px solid black;
+    border-radius: 13px;
+    margin-bottom: 25px;
+}
+
+.col-md-6 .btn:hover{
+    background-color: transparent;
+    color: black;
+}
